@@ -7,6 +7,6 @@ import static org.junit.Assert.assertEquals;
 public class TravisTest {
     @Test
     public void helloInAnyCaseReturnsHelloTravis() {
-        assertEquals("Hello Travis!", new Travis().helloTravis());
+        assertEquals("Hello Travis 2 new Travis().helloTravis());
     }
 }
